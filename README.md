@@ -1,6 +1,4 @@
-Hi, I’m @fgames-dev (Future Games). 
-I’m interested in web and game development, and I use Godot.
-I’m currently learning C++ and 3D game development in Godot.
+I might be good at coding idk
 
 <!---
 fgames-dev/fgames-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
